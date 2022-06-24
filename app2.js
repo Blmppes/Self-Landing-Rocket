@@ -126,7 +126,7 @@ let drag = 0.01;
 
 loop = function() {
     //Set source for images
-    rocket.src = "blob/main/image-removebg-preview.png";
+    rocket.src = "image-removebg-preview.png";
 
     //something
     doPhysics();
